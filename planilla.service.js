@@ -1,0 +1,3 @@
+function getPlanilla() {
+  //poner logica
+}
